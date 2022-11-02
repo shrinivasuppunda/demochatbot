@@ -1,0 +1,12 @@
+greeting	 hi hi. hello how are you ? hey . hows it going good morning good evening good afternoon howdy 
+conversation-continue	 ok wow great oh is it ? oh ohh Thats great Good Really hmm lemme think hm hmmm hmmmmm
+price-inquiry	 How much is the cost ? What's the price ? What's the cost ? How much is price? How much it costs ? price cost money how much. how much?
+product-inquiry	 What is this product ? What's the product ? What does this product do ? What is name of product ? What this product is all about? Can you tell me something about this product ? What are the product features ? Tell me feature of product.
+colours-enquiry colours? which all colours colour color
+team-names	 Which teams are there? Team names? Teams? teams in NEC? TEAMS
+conversation-continue	 ok wow great oh is it ? oh ohh Thats great Good Really hmm lemme think hm hmmm hmmmmm
+stratus-enquiry	 who are in stratus ? STRATUS team? stratus team members? who is part of Stratus project? who is part of STRATUS project?
+nynemkonto-enquiry who are in NYNEMKONTO? Ny Nemkonto team members? Nynemkonto team tiger team 1? TT1 Tiger Team 1? who is part of nynemkonto project? who is part of Tiger Team1 project? who is part of Tiger Team 1 project? who is part of TT1 project?
+emergingTech-enquiry who are in emergingTech ? ET&I? emerging technology and innovation? who is part of emerging technology and innovation project?who is part of emergingTech project? who is part of ET&I project?
+team-experience	 graduate experience ? Software engineer? Sr. Software engineer? Senior SOftware Engineer? Team lead Lead?
+conversation-complete	 Thanks done that's all that's it. That's it I am done Thank you for information Thank. thanks. thank you. thanks nothing else thats it.

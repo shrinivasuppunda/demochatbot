@@ -1,0 +1,6 @@
+<START:person> Hardik <END> is a software Professional.
+<START:person> Hardik works at company <END> and <START:person> is part of development team <END>
+<START:person> Hardik lives in New York <END>
+<START:person> Hardik <END> loves R statistical software
+<START:person> Hardik <END> is a student at ISB
+<START:person> Hardik <END> loves nature
